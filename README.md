@@ -22,4 +22,4 @@ The script uses a configuration file `config.ini` to store the authorization tok
 3. Run the script using the following command:
 
 ```bash
-python script.py
+python source.py
