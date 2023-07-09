@@ -10,7 +10,7 @@ This Python script sends typing indicator requests to multiple Discord channels 
 
 ## Usage
 
-1. Obtain an authorization token from Discord. You can create a bot or use your own user account.
+1. Obtain an authorization token use your own user account.
 
 2. Run the script: python source.py
 
