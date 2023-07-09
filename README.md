@@ -37,7 +37,3 @@ If the `channel_ids.txt` file exists, you can choose to use the saved IDs instea
 - Be mindful of Discord's API rate limits to avoid potential restrictions or penalties.
 
 - This script uses the `concurrent.futures` module to send requests concurrently, improving efficiency.
-
----
-
-Feel free to customize this README file according to your project's specific requirements and add any additional information or instructions.
