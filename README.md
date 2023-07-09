@@ -6,17 +6,13 @@ This Python script sends typing indicator requests to multiple Discord channels 
 
 1. Clone the repository or download the script file.
 
-2. Install the required dependencies by running the following command:
-
-pip install requests configparser colorama
+2. Install the required dependencies by running the following command: pip install requests configparser colorama
 
 ## Usage
 
 1. Obtain an authorization token from Discord. You can create a bot or use your own user account.
 
-2. Run the script:
-
-python source.py
+2. Run the script: python source.py
 
 3. Follow the prompts to enter your authorization token and choose the channel ID(s) you want to send typing requests to.
 
